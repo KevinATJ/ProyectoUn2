@@ -37,6 +37,7 @@ Link del video:
 
 
 Comentarios del código:
+
 -No se pudo implementar varias comprobaciones en el programa.
 -No se pudo establecer correctamente los guardianes en cada lugar del mapa(es decir 1 maestro y 1 aprendiz por aldea).
 -No se identifico maestros y aprendices en las peleas, por lo que si se pelea con alguien no existe una correcta 
@@ -44,7 +45,7 @@ asignación del puntaje según maestro o aprendiz, por lo que se decidio otorgar
 -No se desarrollo una función que dictamine una recomendación de con cual guardian luchar ni tampoco la de límite de 
 puntos por pelea.
 
+Importante:
 
-
-
-
+-Por más que intente subir como queria los archivos.csv al momento de editarlos aca en el repositorio siempre salen con un espacio en blanco al final,
+nose si es por github o por alguna otra cosa, por lo que si le da problema esta linea vacia al final del documento, por favor eliminela al descargarlo.
