@@ -34,6 +34,7 @@ Explicación del código/funcionalidades principales:
 -combat: Permite al jugador combatir contra otro guardián, mediante el uso de porcentajes de victoria y aleatoridad.
 
 Link del video:
+https://drive.google.com/file/d/1zcby6KL0uaQY_pphc1P0kgwHtjGCpeU5/view?usp=sharing
 
 
 Comentarios del código:
